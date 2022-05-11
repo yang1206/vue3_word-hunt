@@ -75,7 +75,7 @@ async function getData(newValue) {
 <style lang="scss" scoped>
 ::-webkit-scrollbar {
   width: 5px;
-  background: #282c34;
+  //background: #282c34;
 }
 
 ::-webkit-scrollbar-thumb {
