@@ -37,7 +37,7 @@ header {
       // background-color: $bg;
       border-bottom: 1px solid rgba(197, 188, 188);
       padding: 5px;
-      color: white;
+      //color: white;
       font-size: 18px;
       &:focus {
         outline: none;
